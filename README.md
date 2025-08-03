@@ -50,7 +50,7 @@ A modern full-stack web application for managing workspaces with authentication,
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/workspace-manager.git
+git clone https://github.com/arshakaa/workspace-manager.git
 cd workspace-manager
 ```
 
